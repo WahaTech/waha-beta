@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/401dfbed-cfde-4463-9365-50c8673bde53/deploy-status)](https://app.netlify.com/sites/unruffled-euler-aed893/deploys)
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
