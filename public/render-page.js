@@ -11641,24 +11641,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!***********************************************************************!*\
-  !*** external "/home/avi/waha-beta/node_modules/react-dom/server.js" ***!
-  \***********************************************************************/
+/*!*********************************************************************************!*\
+  !*** external "/Users/aviyashchin/waha-beta2/node_modules/react-dom/server.js" ***!
+  \*********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/avi/waha-beta/node_modules/react-dom/server.js");;
+module.exports = require("/Users/aviyashchin/waha-beta2/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!******************************************************************!*\
-  !*** external "/home/avi/waha-beta/node_modules/react/index.js" ***!
-  \******************************************************************/
+/*!****************************************************************************!*\
+  !*** external "/Users/aviyashchin/waha-beta2/node_modules/react/index.js" ***!
+  \****************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/avi/waha-beta/node_modules/react/index.js");;
+module.exports = require("/Users/aviyashchin/waha-beta2/node_modules/react/index.js");;
 
 /***/ }),
 
