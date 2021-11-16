@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Waha Tech"
 menuText: "Menu "
 ---

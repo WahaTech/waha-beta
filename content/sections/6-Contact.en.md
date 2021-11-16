@@ -1,7 +1,7 @@
 ---
 anchor: "Contact"
 header: "Let's Get In Touch!"
-subheader: "Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!"
-telephone: 03-0000-0001
-email: contact@yourwebsite.com
+subheader: "We are actively looking for partners and investors in the clean energy and clean currency sectors. Please contact us if you are interested in learning more about WaHa."
+telephone: (914)525-1868
+email: info@wahatech.io
 ---

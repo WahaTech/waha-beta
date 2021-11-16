@@ -145,6 +145,10 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
         })
       }
       <Footer frontmatter={footerNode.frontmatter} />
+
+      <form name="contact" netlify netlify-honeypot="bot-field" action="/" hidden>
+        <input type="email" name="email" />
+      </form>
     </>
   );
 };
